@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/sleepinggenius2/gosmi"
-	"github.com/sleepinggenius2/gosmi/types"
+	"github.com/belqlabs/omf-gosmi"
+	"github.com/belqlabs/omf-gosmi/types"
 )
 
 type arrayStrings []string

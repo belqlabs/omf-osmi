@@ -5,7 +5,7 @@ import (
 
 	"github.com/alecthomas/participle/lexer"
 
-	"github.com/sleepinggenius2/gosmi/types"
+	"github.com/belqlabs/omf-gosmi/types"
 )
 
 type Date string

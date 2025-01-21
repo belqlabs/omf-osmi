@@ -1,8 +1,8 @@
 package internal
 
 import (
-	"github.com/sleepinggenius2/gosmi/parser"
-	"github.com/sleepinggenius2/gosmi/types"
+	"github.com/belqlabs/omf-gosmi/parser"
+	"github.com/belqlabs/omf-gosmi/types"
 )
 
 const WellKnownModuleName types.SmiIdentifier = "<well-known>"

@@ -3,7 +3,7 @@ package gosmi
 import (
 	"os"
 
-	"github.com/sleepinggenius2/gosmi/smi"
+	"github.com/belqlabs/omf-gosmi/smi"
 )
 
 func Init() {
